@@ -1,0 +1,19 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "Armaremos un pequeño servidor con informacion de cursos.",
+  "main": "app.js",
+  "scripts": {
+    "test": "",
+    "start": "json-server --watch db.json --port 4000"
+  },
+  "type": "module",
+  "author": "Santiago Montironi",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}

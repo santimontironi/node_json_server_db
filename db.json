@@ -1,0 +1,64 @@
+{
+  "Profesores": [
+    {
+      "nombre": "Santiago",
+      "apellido": "Montironi",
+      "materias": [
+        {
+          "nombre": "Programacion 1"
+        },
+        {
+          "nombre": "Aprender NodeJs"
+        }
+      ],
+      "id": "0831"
+    },
+    {
+      "id": "75a1",
+      "nombre": "Andres",
+      "apellido": "Ferreyra",
+      "materias": [
+        {
+          "nombre": "Fundamentos de diseño web"
+        },
+        {
+          "nombre": "Bases de datos"
+        }
+      ]
+    }
+  ],
+  "Alumnos": [
+    {
+      "nombre": "Lionel",
+      "apellido": "Messi",
+      "promedio": 8.5,
+      "id": "d2b5"
+    },
+    {
+      "nombre": "Cristiano",
+      "apellido": "Ronaldo",
+      "promedio": 7.5,
+      "id": "1189"
+    },
+    {
+      "id": "5ff0",
+      "nombre": "Luis",
+      "apellido": "Suarez",
+      "promedio": 8
+    }
+  ],
+  "Cursos": [
+    {
+      "nombre": "Frontend",
+      "duracion": "Ocho Horas",
+      "dificultad": "Intermedia",
+      "id": "db7d"
+    },
+    {
+      "nombre": "Backend",
+      "duracion": "11 Horas",
+      "dificultad": "Intermedia",
+      "id": "402e"
+    }
+  ]
+}
