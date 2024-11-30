@@ -25,6 +25,19 @@
           "nombre": "Bases de datos"
         }
       ]
+    },
+    {
+      "id": "a4a3",
+      "nombre": "Oscar",
+      "apellido": "Galdames",
+      "materias": [
+        {
+          "nombre": "Ingenieria de software"
+        },
+        {
+          "nombre": "Practica profesionalizantes"
+        }
+      ]
     }
   ],
   "Alumnos": [
@@ -45,6 +58,12 @@
       "nombre": "Luis",
       "apellido": "Suarez",
       "promedio": 8
+    },
+    {
+      "id": "f5d7",
+      "nombre": "Neymar",
+      "apellido": "Jr",
+      "promedio": 7
     }
   ],
   "Cursos": [
